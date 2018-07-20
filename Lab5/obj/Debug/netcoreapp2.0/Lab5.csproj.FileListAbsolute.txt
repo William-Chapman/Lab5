@@ -1,0 +1,11 @@
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csprojAssemblyReference.cache
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfo.cs
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.deps.json
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.json
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.dev.json
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.dll
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.pdb
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.dll
+C:\Users\Rachel\Desktop\Will's Stuff\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.pdb
